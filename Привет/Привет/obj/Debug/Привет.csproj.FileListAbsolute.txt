@@ -1,0 +1,9 @@
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\bin\Debug\Привет.exe.config
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\bin\Debug\Привет.exe
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\bin\Debug\Привет.pdb
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\obj\Debug\Привет.csprojAssemblyReference.cache
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\obj\Debug\Привет.Form1.resources
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\obj\Debug\Привет.Properties.Resources.resources
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\obj\Debug\Привет.csproj.GenerateResource.cache
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\obj\Debug\Привет.exe
+C:\Users\Алексей Аредов\source\repos\Привет\Привет\obj\Debug\Привет.pdb
