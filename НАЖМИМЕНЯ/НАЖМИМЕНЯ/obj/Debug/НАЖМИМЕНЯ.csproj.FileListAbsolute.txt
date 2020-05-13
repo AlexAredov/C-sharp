@@ -1,0 +1,9 @@
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\bin\Debug\НАЖМИМЕНЯ.exe.config
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\bin\Debug\НАЖМИМЕНЯ.exe
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\bin\Debug\НАЖМИМЕНЯ.pdb
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\obj\Debug\НАЖМИМЕНЯ.csprojAssemblyReference.cache
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\obj\Debug\НАЖМИМЕНЯ.Form1.resources
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\obj\Debug\НАЖМИМЕНЯ.Properties.Resources.resources
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\obj\Debug\НАЖМИМЕНЯ.csproj.GenerateResource.cache
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\obj\Debug\НАЖМИМЕНЯ.exe
+C:\Users\Алексей Аредов\source\repos\НАЖМИМЕНЯ\НАЖМИМЕНЯ\obj\Debug\НАЖМИМЕНЯ.pdb

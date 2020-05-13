@@ -1,0 +1,9 @@
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\bin\Debug\УГАДАЙ.exe.config
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\bin\Debug\УГАДАЙ.exe
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\bin\Debug\УГАДАЙ.pdb
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\obj\Debug\УГАДАЙ.csprojAssemblyReference.cache
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\obj\Debug\УГАДАЙ.Form1.resources
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\obj\Debug\УГАДАЙ.Properties.Resources.resources
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\obj\Debug\УГАДАЙ.csproj.GenerateResource.cache
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\obj\Debug\УГАДАЙ.exe
+C:\Users\Алексей Аредов\source\repos\УГАДАЙ\УГАДАЙ\obj\Debug\УГАДАЙ.pdb

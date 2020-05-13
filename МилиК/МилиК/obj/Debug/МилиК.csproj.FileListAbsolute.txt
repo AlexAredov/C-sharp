@@ -1,0 +1,9 @@
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\bin\Debug\МилиК.exe.config
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\bin\Debug\МилиК.exe
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\bin\Debug\МилиК.pdb
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\obj\Debug\МилиК.csprojAssemblyReference.cache
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\obj\Debug\МилиК.Form1.resources
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\obj\Debug\МилиК.Properties.Resources.resources
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\obj\Debug\МилиК.csproj.GenerateResource.cache
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\obj\Debug\МилиК.exe
+C:\Users\Алексей Аредов\source\repos\МилиК\МилиК\obj\Debug\МилиК.pdb
