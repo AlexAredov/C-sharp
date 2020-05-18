@@ -1,0 +1,10 @@
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\bin\Debug\Кнопки.exe.config
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\bin\Debug\Кнопки.exe
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\bin\Debug\Кнопки.pdb
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.csprojAssemblyReference.cache
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.Form1.resources
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.Properties.Resources.resources
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.csproj.GenerateResource.cache
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.exe
+C:\Users\Алексей Аредов\source\repos\Кнопки\Кнопки\obj\Debug\Кнопки.pdb
