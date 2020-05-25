@@ -1,0 +1,10 @@
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\bin\Debug\ПЕРЕВОД.exe.config
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\bin\Debug\ПЕРЕВОД.exe
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\bin\Debug\ПЕРЕВОД.pdb
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.csprojAssemblyReference.cache
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.Form1.resources
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.Properties.Resources.resources
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.csproj.GenerateResource.cache
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.exe
+C:\Users\Алексей Аредов\source\repos\ПЕРЕВОД\ПЕРЕВОД\obj\Debug\ПЕРЕВОД.pdb
